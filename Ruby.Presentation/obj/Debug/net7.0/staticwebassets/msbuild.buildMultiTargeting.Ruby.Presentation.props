@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ruby.Presentation.props" />
+</Project>

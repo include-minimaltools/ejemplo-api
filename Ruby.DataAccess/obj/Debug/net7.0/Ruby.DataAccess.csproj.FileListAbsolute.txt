@@ -1,0 +1,14 @@
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\bin\Debug\net7.0\Ruby.DataAccess.deps.json
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\bin\Debug\net7.0\Ruby.DataAccess.dll
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\bin\Debug\net7.0\Ruby.DataAccess.pdb
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.AssemblyInfoInputs.cache
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.AssemblyInfo.cs
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.csproj.CoreCompileInputs.cache
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.dll
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\refint\Ruby.DataAccess.dll
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.pdb
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\ref\Ruby.DataAccess.dll
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\bin\Debug\net7.0\Ruby.DataAccess.runtimeconfig.json
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.csproj.AssemblyReference.cache
+C:\Workspace\temp\ejemplo-api\Ruby.DataAccess\obj\Debug\net7.0\Ruby.DataAccess.genruntimeconfig.cache
