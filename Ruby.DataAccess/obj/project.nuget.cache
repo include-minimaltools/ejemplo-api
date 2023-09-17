@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C5Up7FedenZpMoYeucigIdy+Lc2e+L+IwoPhpDA53QZ/mvovwBMIc1/gyaUoDfHl3rYxL4cvUM2IRkKjN1f1ZA==",
+  "dgSpecHash": "+zuh8DlPU+bHxOC+/hu2r6VPjerG7oiBPbEEWnKU7LuXGHC7jy466YzkrIQIsgZJMgSq+vx6Dn5tRkCsZF6xLQ==",
   "success": true,
-  "projectFilePath": "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj",
+  "projectFilePath": "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

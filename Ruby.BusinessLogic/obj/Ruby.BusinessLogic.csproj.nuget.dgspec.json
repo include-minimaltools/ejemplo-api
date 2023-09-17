@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj": {
-                "projectPath": "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj"
+              "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj": {
+                "projectPath": "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj": {
+    "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj",
+        "projectUniqueName": "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj",
         "projectName": "Ruby.DataAccess",
-        "projectPath": "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj",
+        "projectPath": "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\obj\\",
+        "outputPath": "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

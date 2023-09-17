@@ -5,7 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
   <ItemGroup>
-    <ProjectReference Include="../Ruby.DataAccess/Ruby.DataAccess.csproj" />
+    <ProjectReference Include="../Ruby.DataAccess/Ruby.DataAccess.csproj"/>
   </ItemGroup>
+
 </Project>

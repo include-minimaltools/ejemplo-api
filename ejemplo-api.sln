@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruby.BusinessLogic", "Ruby.BusinessLogic\Ruby.BusinessLogic.csproj", "{F50B1FF0-1209-4095-8BEA-1D0091F54406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruby.BusinessLogic", "Ruby.BusinessLogic\Ruby.BusinessLogic.csproj", "{5B7E008D-9E68-46CE-AD29-702F15C5BC76}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruby.DataAccess", "Ruby.DataAccess\Ruby.DataAccess.csproj", "{BD85553D-B0BE-4E2C-BA63-D468D844B2D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruby.DataAccess", "Ruby.DataAccess\Ruby.DataAccess.csproj", "{387F88EC-3CC4-4263-9936-EA657C5EB892}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruby.Presentation", "Ruby.Presentation\Ruby.Presentation.csproj", "{129DA4AE-FFC7-4082-B522-E78869E9F499}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruby.Presentation", "Ruby.Presentation\Ruby.Presentation.csproj", "{8A76732C-FD1A-46C3-B29D-31DDE1DD03B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F50B1FF0-1209-4095-8BEA-1D0091F54406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F50B1FF0-1209-4095-8BEA-1D0091F54406}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F50B1FF0-1209-4095-8BEA-1D0091F54406}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F50B1FF0-1209-4095-8BEA-1D0091F54406}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BD85553D-B0BE-4E2C-BA63-D468D844B2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD85553D-B0BE-4E2C-BA63-D468D844B2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD85553D-B0BE-4E2C-BA63-D468D844B2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD85553D-B0BE-4E2C-BA63-D468D844B2D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{129DA4AE-FFC7-4082-B522-E78869E9F499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{129DA4AE-FFC7-4082-B522-E78869E9F499}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{129DA4AE-FFC7-4082-B522-E78869E9F499}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{129DA4AE-FFC7-4082-B522-E78869E9F499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7E008D-9E68-46CE-AD29-702F15C5BC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7E008D-9E68-46CE-AD29-702F15C5BC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7E008D-9E68-46CE-AD29-702F15C5BC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7E008D-9E68-46CE-AD29-702F15C5BC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387F88EC-3CC4-4263-9936-EA657C5EB892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387F88EC-3CC4-4263-9936-EA657C5EB892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387F88EC-3CC4-4263-9936-EA657C5EB892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387F88EC-3CC4-4263-9936-EA657C5EB892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A76732C-FD1A-46C3-B29D-31DDE1DD03B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A76732C-FD1A-46C3-B29D-31DDE1DD03B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A76732C-FD1A-46C3-B29D-31DDE1DD03B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A76732C-FD1A-46C3-B29D-31DDE1DD03B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {94E57852-AC3E-4D77-9EFA-094F6152118C}
+		SolutionGuid = {7C3ADCF4-3A68-4839-AD34-88AA03945744}
 	EndGlobalSection
 EndGlobal

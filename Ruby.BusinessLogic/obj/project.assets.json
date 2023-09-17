@@ -2665,8 +2665,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj": {
-              "projectPath": "c:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj"
+            "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj": {
+              "projectPath": "C:\\Workspace\\temp\\ejemplo-api\\Ruby.DataAccess\\Ruby.DataAccess.csproj"
             }
           }
         }

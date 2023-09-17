@@ -5,18 +5,21 @@ using Ruby.DataAccess.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-
-builder.Services.AddDbContext<RubyContext>(options =>
-    options.UseSqlServer(connectionString, builder =>
-        builder.EnableRetryOnFailure(5, TimeSpan.FromMinutes(10), null)));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<ProductService>();
+// Obtener la cadena de conexion por defecto
+var defaultConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+
+// Configurar dbContext
+builder.Services.AddDbContext<RubyContext>(options =>
+   options.UseSqlServer(defaultConnection)
+);
+
+builder.Services.AddScoped<AuthService>();
 
 var app = builder.Build();
 
